@@ -1,0 +1,5 @@
+org/work/demo/pages/Page.class
+org/work/demo/SampleJUnitTest.class
+org/work/demo/JUnitTestBase.class
+org/work/demo/SuiteConfiguration.class
+org/work/demo/pages/HomePage.class
