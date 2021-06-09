@@ -45,7 +45,7 @@ Vinods-MacBook-Pro-2:junit-selenium-demo vinodkumar$                            
 6
 <BR>
 <BR>
-![alt_text_here]("readme_images/junit-selenium-demo.png")
+![alt_text_here]("junit-selenium-demo.png")
   
   
   mvn clean <br>
