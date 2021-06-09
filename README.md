@@ -47,15 +47,17 @@ Vinods-MacBook-Pro-2:junit-selenium-demo vinodkumar$                            
 <BR>
 ![alt_text_here]("junit-selenium-demo.png")
   
+  ```
   
   mvn clean <br>
   mvn install <br>
+  ```
   <img src="readme_images/junit-selenium-demo.png"  />
   
   
 
   References - <br>
-  
+  https://www.lambdatest.com/capabilities-generator/ <br>
   https://www.lambdatest.com/blog/run-junit-from-command-line/
   <br>
   https://www.lambdatest.com/blog/how-to-get-text-of-an-element-in-selenium/
